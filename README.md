@@ -1,4 +1,6 @@
-# 简介
+# APIJSON-NutzBoot
+
+APIJSON + NutzBoot 接近成品的 Demo
 
 本压缩包是一个maven工程, eclipse/idea均可按maven项目导入
 
